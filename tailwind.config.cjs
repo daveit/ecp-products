@@ -1,5 +1,5 @@
 const config = {
-	mode: 'jit',
+	mode: 'production',
 	purge: ['./src/**/*.{html,js,svelte,ts}'],
 
 	theme: {
